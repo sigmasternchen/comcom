@@ -98,7 +98,7 @@ if test ! -f $objcopys ;then
 fi 
 
 # remove
-remove="/bin/cp"
+copy="/bin/cp"
 
 # if program isn't found, then get path
 if test ! -f $copy ;then
