@@ -17,7 +17,7 @@ version="2.2.3.5"
 #	2.2.2:		liunx installer
 #	2.2.1:		os cl option
 #	2.2: 	  	mac version
-# 2.1: 	  	cl options
+# 	2.1: 	  	cl options
 #	2.0:	  	hex input
 #	1.9:	  	asm input
 #	1.4:	  	better error messages
